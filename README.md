@@ -1,4 +1,4 @@
-                                                 Optimisez un site web existant / Référencement SEO
+                                        Optimisez un site web existant / Référencement SEO
 
 LIVRABLES : 
 
