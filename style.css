@@ -923,11 +923,12 @@ h4 {
     .bloc-mob-center-text {
             text-align: center; }
     
-    .bg-banniere {
-            background-image: none; }
-        
-    .bg-presentation {
-            background-image: none; }
+   .tangerine-background {
+        width: 95%;/*bloc orange de la chouette*/ }
+
+    .bloc-size {/*bloc orange du bas*/ 
+        width: 70%;
+        margin: auto; }  
 }
 /*-------------------------------MEDIA QUERY max 400px-----------------------------------------------------------*/
 @media (max-width: 400px) {
@@ -936,8 +937,8 @@ h4 {
         padding-right: 0; }
 
     .bg-banniere {
-        background-image: none; }
+        background-image: url("img/la-chouette-agence-banniere.jpg")none; }
     
     .bg-presentation {
-        background-image: none; }
+        background-image: url("img/image-de-presentation.jpg"); }
 }
